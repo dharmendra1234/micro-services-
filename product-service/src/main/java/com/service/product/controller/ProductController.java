@@ -1,4 +1,4 @@
-package com.service.employee.controller;
+package com.service.product.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
