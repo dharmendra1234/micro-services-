@@ -1,4 +1,4 @@
-package com.service.employee;
+package com.service.product;
 
 import org.springframework.boot.SpringApplication;
 
